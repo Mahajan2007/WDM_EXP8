@@ -125,5 +125,9 @@ if __name__ == "__main__":
 
 ### Output:
 
+<img width="886" height="438" alt="image" src="https://github.com/user-attachments/assets/1a8a099a-d2c3-488d-af8d-774fdad17616" />
+
+<img width="866" height="548" alt="image" src="https://github.com/user-attachments/assets/ab1d0a04-4694-485f-8a4e-469bf829f0bd" />
 
 ### Result:
+hence performed Web Scraping on Amazon using (beautifulsoup) Python.
